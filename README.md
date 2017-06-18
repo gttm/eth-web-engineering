@@ -1,4 +1,4 @@
-# ETH Web Engineering course projects (Spring 2016)
+# ETH Web Engineering course projects (Spring 2017)
 ## Exercise 1: Design and Layout using CSS - Responsive Design
 In this exercise we recreate the design and layout for a restaurant one-page website based on screen mockups and then make the website responsive.
 
